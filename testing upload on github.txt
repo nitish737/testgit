@@ -12,4 +12,32 @@ git branch -M main -- prepares something i don't know locally
 
 git remote add origin url -- adds the origin of the web link locally
 
-git push -u origin main -- pushes the files on the web (here it will ask for browser login)
+git push -u origin main -- pushes the files on the web 
+                         (here it will ask for browser login)
+
+
+
+IF ALREADY COMMITTED ONCE THAN DO FOLLOWING 
+
+git add . -- add all the files to the git locally
+
+git commit -m "second commit" -- commits the files locally
+
+git push -u origin main -- uploads to github on web
+
+
+
+
+
+
+url look like this :: 
+https://github.com/nitish737/testgit.git
+
+
+
+
+
+
+
+
+
