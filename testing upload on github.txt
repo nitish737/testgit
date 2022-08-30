@@ -1,0 +1,15 @@
+How TO UPLOAD TO GITHUB
+
+these are my tested commands at one time
+
+git init -- initialises the git command locally
+
+git add . -- adds the files to git locally
+
+git commit -m "first commit" -- git stores locally
+
+git branch -M main -- prepares something i don't know locally
+
+git remote add origin url -- adds the origin of the web link locally
+
+git push -u origin main -- pushes the files on the web (here it will ask for browser login)
